@@ -63,11 +63,13 @@ Step 6: predict and Evaluate the model using the test data to determine the mode
 
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99616004/174387727-18169e41-db58-4daa-97fd-ad1fce28e58d.png">
 
-Step 7: PDefine at least three new deep neural network models (resulting in the original plus 3 optimization attempts). With each, try to improve on your first model’s predictive accuracy.
+Step 7: Define at least three new deep neural network models (resulting in the original plus 3 optimization attempts). With each, try to improve on your first model’s predictive accuracy.
 
 <img width="868" alt="image" src="https://user-images.githubusercontent.com/99616004/174387912-066c2a7a-d0c3-47f1-85b4-976ba4594ed4.png">
 
+Step 8: save the models as H5 
 
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/99616004/174391707-1f90faa0-e871-4923-8c15-cc4ca8cede25.png">
 
 Conclution:  
 
